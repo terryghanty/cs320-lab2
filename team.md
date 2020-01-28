@@ -1,4 +1,4 @@
 Team Members:
 
 *Terry
-*TODO: others
+*Sam
